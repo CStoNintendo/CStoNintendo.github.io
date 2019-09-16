@@ -1,0 +1,4 @@
+---
+title: CStoNintendo
+layout: home
+---
