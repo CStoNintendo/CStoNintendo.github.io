@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to CStoNintendo"
-date:   2019-09-16 14:47:56 -0600
+date:   2019-09-16 14:20:56 -0600
 categories: jekyll update
 ---
 
@@ -11,7 +11,7 @@ categories: jekyll update
 
 ## Hello all and welcome to my Game Development Blog.
 
-As I wrote in the about column, I will be using this blog as a place to document my journey as a Software Engineer and I am hoping to highlight the progress that I make along the way. 
+As I wrote in the about column, I will be using this blog as a place to document my journey as a Software Engineer and also to highlight the progress that I make along the way. 
 
 The first game I intend to clone is the 1972 classic [Pong](https://en.wikipedia.org/wiki/Pong). Now, even if you haven't played this game, you have at least heard about it or seen a video of someone else playing it. From a high level, the game is extremely simple and from the surface level looks like it will be rather simple to implement, but we will see. 
 

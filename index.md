@@ -1,4 +1,4 @@
 ---
-title: CStoNintendo
+title: Home
 layout: home
 ---
