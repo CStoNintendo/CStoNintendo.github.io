@@ -5,7 +5,7 @@ date:   2019-09-29 20:47:56 -0600
 categories: jekyll update
 ---
 
-![Pixi-Pong-Clone](/assets/pixi-pong-clone.png)
+![Pixi-Pong-Clone](/assets/img/pixi-pong-clone.png)
 
 <br>
 
