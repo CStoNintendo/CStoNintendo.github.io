@@ -33,6 +33,10 @@ Command prompt that will allow the user to defend using the "A" button.
 
 <br>
 
+I believe that this mechanic being included in RPGs was a giant step forward for the industry and whenever someone is playing games that use this mechanic, they will surely be transfixed on the combat.
+
+<br>
+
 ### What Game are We Making Next?!
 
 I have been going back and forth on whether or not to use a game engine like Godot or Unity for this next project or to do it using a primitive rendering engine instead.. I believe that using a primitive rendering engine for at least one more project would be very beneficial for continuing to learn, so I will be doing that. I think that a fun game to take a stab at next would be the 1984 world known classic....... Tetris! I will be making this game using PIXIjs as well, so anyone will be able to play without having to download and compile anything.
