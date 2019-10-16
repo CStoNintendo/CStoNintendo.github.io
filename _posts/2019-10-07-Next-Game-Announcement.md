@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Announcing CStoNintendo's Next Game Recreation and What Makes Games Fun for Me"
+title:  "Announcing CStoNintendo's Next Game Recreation..."
 date:   2019-10-09 12:47:56 -0600
 categories: jekyll update
 ---
@@ -41,7 +41,7 @@ I believe that this mechanic being included in RPGs was a giant step forward for
 
 I have been going back and forth on whether or not to use a game engine like Godot or Unity for this next project or to do it using a primitive rendering engine instead.. I believe that using a primitive rendering engine for at least one more project would be very beneficial for continuing to learn, so I will be doing that. I think that a fun game to take a stab at next would be the 1984 world known classic....... Tetris! I will be making this game using PIXIjs as well, so anyone will be able to play without having to download and compile anything.
 
-Coming Soon I will be posting my plan on how I will go about attackign this beast. Which I will be sticking more closely to than my first, because I already have a level of comfort with using Javascript.
+Coming Soon I will be posting my plan on how I will go about attackign this beast. Which I will be sticking more closely to than my first, because I already have a level of comfort with using Javascript. I am planning on making this a peer project with a good developer friend of mine, but it may take awhile as school is starting to get even more busy these days.
 
 Thanks for reading!
 

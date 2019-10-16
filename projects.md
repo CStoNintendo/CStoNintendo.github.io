@@ -4,12 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-## Currently in Progress
-
-#### Tetris
-
-<br>
-
 ## Completed
 
 #### Pong Clone
